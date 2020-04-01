@@ -1,5 +1,5 @@
 msg = "Hello World"
-print(msg)
+print(msg)t 
 
 #examples of storing variables 
 
@@ -8,3 +8,4 @@ y = "In awhile crocodile"
 z = "Pray to Jah"
 print(x)
 print(y)
+print(z)
