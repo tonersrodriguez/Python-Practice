@@ -1,5 +1,5 @@
 msg = "Hello World"
-print(msg)t 
+print(msg)
 
 #examples of storing variables 
 
